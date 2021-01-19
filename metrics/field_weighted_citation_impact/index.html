@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta charset="utf-8">
+  <title>Field Weighted Citation Impact</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="generator" content="Hugo 0.65.2" />
+  
+  <!-- ** CSS Plugins Needed for the Project ** -->
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://metrics-toolkit.github.io/plugins/bootstrap/bootstrap.min.css">
+
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="https://metrics-toolkit.github.io/plugins/themify-icons/themify-icons.css">
+
+  <!--Favicon-->
+  <link rel="icon" href="https://metrics-toolkit.github.io/images/favicon.png" type="image/x-icon">
+
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open%20Sans:300,400,700&display=swap" rel="stylesheet">
+  
+  <style>
+  :root{
+    --primary-color:#005166;
+    --body-color:#f9f9f9;
+    --text-color:#636363;
+    --text-color-dark:#242738;
+    --white-color:#ffffff;
+    --light-color:#f8f9fa;
+    --font-family:Open Sans;
+  }
+  </style>
+
+<!-- Main Stylesheet -->
+
+<link href="https://metrics-toolkit.github.io/css/style.min.css" rel="stylesheet" media="screen"/>
+  
+<!-- ** JS Plugins Needed for the Project ** -->
+
+<!-- jquiry -->
+<script src="https://metrics-toolkit.github.io/plugins/jquery/jquery-1.12.4.js"></script>
+
+<!-- jquary ui -->
+<script src="https://metrics-toolkit.github.io/plugins/jquery/jquery-ui.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="https://metrics-toolkit.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<!-- match-height JS -->
+<script src="https://metrics-toolkit.github.io/plugins/match-height/jquery.matchHeight-min.js"></script>
+
+
+
+</head>
+  
+  <body>
+    
+    <!-- header -->
+    <header class="shadow-bottom sticky-top bg-white">
+      <nav class="navbar navbar-expand-md navbar-light">
+  <div class="container">
+    <a class="navbar-brand px-2" href="/">
+      
+      
+      
+      Metrics Toolkit
+      
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/">Home</a>
+        </li>
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/metrics">Browse Metrics</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/resources">Resources</a>
+        </li>
+        
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            about
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="/about">About</a>
+            
+            <a class="dropdown-item" href="/about/editorial-board">Editorial Board</a>
+            
+            <a class="dropdown-item" href="/about/schema">Schema</a>
+            
+          </div>
+        </li>
+        
+        
+      </ul> 
+      
+    </div>
+  </div>
+</nav> 
+    </header>
+    <!-- /header -->
+    
+    
+
+<!-- details page -->
+<section class="single section-sm pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="p-lg-5 p-4 bg-white">
+          <h2 class="mb-5">Field Weighted Citation Impact</h2>
+          
+          <div class="content"><table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Field Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Field Weighted Citation Impact</td>
+</tr>
+<tr>
+<td>Can Apply To</td>
+<td>Primarily journal articles, but also other kinds of research outputs, such as book chapters and conference proceedings that are sufficiently covered by abstract and citation databases.</td>
+</tr>
+<tr>
+<td>Metric Definition</td>
+<td>The Field Normalized Citation Impact (FNCI) is the ratio between the actual citations received by a publication and the average number of citations received by all other similar publications. The latter is referred to as the expected number of citations. Similar publications are ones in the same subject category, of the same type (i.e. article, review, book chapter, etc.), and of the same age (i.e. publication year).</td>
+</tr>
+<tr>
+<td>Metric Calculation</td>
+<td>A FNCI is measured by dividing the number of citations a publication received by the average number of citations to publications in a database published in the same year, of the same type, and within the same subject category. When multiple publications are being considered, the ratio between the actual and average citations for each publication are calculated first. A typical indicator is the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3081055/">Mean Normalized Citation Score (MNCS)</a>, which is the mean result of all FNCI of all publications included in the analysis. Publications can also be assigned to more than one subject category. <a href="https://www.elsevier.com/__data/assets/pdf_file/0020/53327/ELSV-13013-Elsevier-Research-Metrics-Book-r5-Web.pdf">In these cases, usually the publication and its citation counts are proportionally distributed across the relevant subject categories.</a></td>
+</tr>
+<tr>
+<td>Data Sources</td>
+<td>The FNCI is dependent on extensive citation and indexing information available in citation databases, such as Scopus and Web of Science. In addition to citation counts, these sources classify publications by year, type, and subject.</td>
+</tr>
+<tr>
+<td>Appropriate Use Cases</td>
+<td><a href="https://arxiv.org/ftp/arxiv/papers/1507/1507.02099.pdf">The FNCI was conceived to facilitate the benchmarking of citation performance across groups of different size, disciplinary scope, and age</a>, such as research large groups, institutions, or geographic regions. It is meant to correct for the different disciplinary patterns of scholarly communication and publication age can have on non-normalized metrics, such as citation counts. The global mean of the FNCI is 1.0, so it is easy to compare a set of values to a benchmark. For example, an FNCI of 1.50 means 50% more cited than the world average; whereas, an FWCI of 0.75 means 25% less cited than the world average.</td>
+</tr>
+<tr>
+<td>Limitations</td>
+<td>The FNCI is typically presented as a mean value (e.g. Mean Normalized Citation Score) for an aggregation of papers (e.g. individual scholars, a journal, a university, etc.), which can be strongly influenced by outliers. <a href="https://arxiv.org/ftp/arxiv/papers/1507/1507.02099.pdf">The distribution of citations across publications is often highly skewed. Most publication in a sample will receive relatively low citation attention, while a small set will accumulate high citation rates. Indicators based on highly cited publications are usually an alternative to mean-based indicators. Additionally, the FNCI may be sensitive to the field classification system chosen for the analysis, particularly when the classification is not at the publication-level but at the journal-level (e.g. Web of Science Subject Categories or the Scopus All Science Journal Classification (AJSC).</a></td>
+</tr>
+<tr>
+<td>Inappropriate Use Cases</td>
+<td>Like for most citation analysis, citation-based metrics should not be interpreted as a direct measure of research quality.</td>
+</tr>
+<tr>
+<td>Available Metric Sources</td>
+<td>Article level FNCI values are available in Scopus (Field Weighted Citation Index - FWCI), and other bibliometric sources (e.g. Web of Science, Dimensions, Google Scholar) provide possibilities of similarly calculated field-normalized citation based metrics.</td>
+</tr>
+<tr>
+<td>Transparency</td>
+<td>The FNCI’s calculation is a well known methodology in bibliometric practice. The FNCI is dependent upon a publication’s classification by discipline, publication type, and year. While the year and type of publication are recorded and verifiable, discipline assignments are not always available.</td>
+</tr>
+<tr>
+<td>Website</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Timeframe</td>
+<td>The FNCI may be subject of different ‘citation windows.’ Typically, it uses citation data from the year of publication plus 3 years, although more extensive (i.e. larger than 3 years) or variable citation windows (i.e. considering all subsequent publication years available after the publication year) are possible.</td>
+</tr>
+</tbody>
+</table>
+</div>
+          
+          <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 10 Aug 2020</p>
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /details page -->
+
+
+
+
+
+    <!-- footer -->
+<footer class="section pb-4">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-8 text-md-left text-center">
+       <p class="mb-md-0 mb-4">This site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+      </div>
+      <div class="col-md-4 text-md-right text-center">
+        <ul class="list-inline">
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://www.twitter.com/metrics_toolkit"><i class="ti-twitter-alt"></i></a></li>
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href=""><i class=""></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- /footer -->
+
+<!-- Main Script -->
+
+<script src="https://metrics-toolkit.github.io/js/script.min.js"></script>
+  </body>
+
+</html>

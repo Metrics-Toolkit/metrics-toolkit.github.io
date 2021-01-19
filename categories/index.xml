@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Metrics Toolkit</title>
+    <link>https://metrics-toolkit.github.io/categories/</link>
+    <description>Recent content in Categories on Metrics Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://metrics-toolkit.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book chapters</title>
+      <link>https://metrics-toolkit.github.io/categories/book-chapters/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.github.io/categories/book-chapters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://metrics-toolkit.github.io/categories/books/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.github.io/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://metrics-toolkit.github.io/categories/datasets/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.github.io/categories/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal articles</title>
+      <link>https://metrics-toolkit.github.io/categories/journal-articles/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.github.io/categories/journal-articles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

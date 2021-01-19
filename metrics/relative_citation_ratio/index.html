@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta charset="utf-8">
+  <title>Relative Citation Ratio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="generator" content="Hugo 0.65.2" />
+  
+  <!-- ** CSS Plugins Needed for the Project ** -->
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://metrics-toolkit.github.io/plugins/bootstrap/bootstrap.min.css">
+
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="https://metrics-toolkit.github.io/plugins/themify-icons/themify-icons.css">
+
+  <!--Favicon-->
+  <link rel="icon" href="https://metrics-toolkit.github.io/images/favicon.png" type="image/x-icon">
+
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open%20Sans:300,400,700&display=swap" rel="stylesheet">
+  
+  <style>
+  :root{
+    --primary-color:#005166;
+    --body-color:#f9f9f9;
+    --text-color:#636363;
+    --text-color-dark:#242738;
+    --white-color:#ffffff;
+    --light-color:#f8f9fa;
+    --font-family:Open Sans;
+  }
+  </style>
+
+<!-- Main Stylesheet -->
+
+<link href="https://metrics-toolkit.github.io/css/style.min.css" rel="stylesheet" media="screen"/>
+  
+<!-- ** JS Plugins Needed for the Project ** -->
+
+<!-- jquiry -->
+<script src="https://metrics-toolkit.github.io/plugins/jquery/jquery-1.12.4.js"></script>
+
+<!-- jquary ui -->
+<script src="https://metrics-toolkit.github.io/plugins/jquery/jquery-ui.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="https://metrics-toolkit.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<!-- match-height JS -->
+<script src="https://metrics-toolkit.github.io/plugins/match-height/jquery.matchHeight-min.js"></script>
+
+
+
+</head>
+  
+  <body>
+    
+    <!-- header -->
+    <header class="shadow-bottom sticky-top bg-white">
+      <nav class="navbar navbar-expand-md navbar-light">
+  <div class="container">
+    <a class="navbar-brand px-2" href="/">
+      
+      
+      
+      Metrics Toolkit
+      
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/">Home</a>
+        </li>
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/metrics">Browse Metrics</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/resources">Resources</a>
+        </li>
+        
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            about
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="/about">About</a>
+            
+            <a class="dropdown-item" href="/about/editorial-board">Editorial Board</a>
+            
+            <a class="dropdown-item" href="/about/schema">Schema</a>
+            
+          </div>
+        </li>
+        
+        
+      </ul> 
+      
+    </div>
+  </div>
+</nav> 
+    </header>
+    <!-- /header -->
+    
+    
+
+<!-- details page -->
+<section class="single section-sm pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="p-lg-5 p-4 bg-white">
+          <h2 class="mb-5">Relative Citation Ratio</h2>
+          
+          <div class="content"><table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Field Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Relative Citation Ratio</td>
+</tr>
+<tr>
+<td>Can Apply To</td>
+<td>Journal articles</td>
+</tr>
+<tr>
+<td>Metric Definition</td>
+<td>A field-normalized indicator of influence, used by the NIH for evaluating the relative merits of biomedical research articles</td>
+</tr>
+<tr>
+<td>Metric Calculation</td>
+<td>According to <a href="http://doi.org/10.1038/nature.2015.18734">Bloudoff-Indelicato (2015)</a>, “The RCR is calculated by dividing the number of citations a paper received by the average number of citations an article usually receives in that field. That number is then benchmarked against the median RCR for all NIH-funded papers. This allows articles to be assessed on the basis of their relevance in their own field, and highly influential articles will be recognized even if they are published in an obscure journal.” The “the average number of citations an article usually receives in that field” is determined by finding the average number of citations for all other articles that are cited alongside the article for which the RCR is being calculated (“an article’s co-citation network”).</td>
+</tr>
+<tr>
+<td>Data Sources</td>
+<td>The NIH iCite database</td>
+</tr>
+<tr>
+<td>Appropriate Use Cases</td>
+<td>To understand the relative scholarly influence that a scientific article has had, as compared to other NIH-funded research. The NIH reportedly uses the RCR for strategic planning and the evaluation of funded research, as a supplement to expert judgement.</td>
+</tr>
+<tr>
+<td>Limitations</td>
+<td>This metric has so far only been applied only to the sciences, as it uses NIH-funded research as its basis of comparison. Further work is under way by researchers to identify its relevance to understanding the influence of arts, humanities, and social sciences research, and possibly that of the influence of science research beyond the biomedical sciences. The benchmarking stage of the RCR calculation provides a potential mechanism to enhance its utility in other areas of research. In common with other citation-based indicators, the RCR has been found to have only <a href="https://arxiv.org/abs/1511.08088">low to medium correlation</a> with peer assessments published on F1000 Prime.</td>
+</tr>
+<tr>
+<td>Inappropriate Use Cases</td>
+<td>Like all other citation-based indicators, the RCR cannot measure the quality of research.</td>
+</tr>
+<tr>
+<td>Available Metric Sources</td>
+<td><a href="https://app.dimensions.ai/discover/publication">Dimensions</a>, <a href="https://icite.od.nih.gov/">The NIH’s iCite database</a></td>
+</tr>
+<tr>
+<td>Transparency</td>
+<td>The metric’s creators describe its calculation in detail in <a href="http://doi.org/10.1371/journal.pbio.1002541">this PLOS Biology article</a>.</td>
+</tr>
+<tr>
+<td>Website</td>
+<td><a href="https://icite.od.nih.gov/">National Institute of Health: Office of Portfolio Analysis: iCite</a></td>
+</tr>
+<tr>
+<td>Timeframe</td>
+<td>The RCR accounts for “time since publication” in how it benchmarks an article against other papers, but is not itself time-bound (i.e. calculated over a certain time period like the journal impact factor is).</td>
+</tr>
+</tbody>
+</table>
+</div>
+          
+          <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 10 Aug 2020</p>
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /details page -->
+
+
+
+
+
+    <!-- footer -->
+<footer class="section pb-4">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-8 text-md-left text-center">
+       <p class="mb-md-0 mb-4">This site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+      </div>
+      <div class="col-md-4 text-md-right text-center">
+        <ul class="list-inline">
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://www.twitter.com/metrics_toolkit"><i class="ti-twitter-alt"></i></a></li>
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href=""><i class=""></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- /footer -->
+
+<!-- Main Script -->
+
+<script src="https://metrics-toolkit.github.io/js/script.min.js"></script>
+  </body>
+
+</html>

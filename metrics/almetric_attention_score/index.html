@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta charset="utf-8">
+  <title>Altmetric Attention Score</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="generator" content="Hugo 0.65.2" />
+  
+  <!-- ** CSS Plugins Needed for the Project ** -->
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://metrics-toolkit.github.io/plugins/bootstrap/bootstrap.min.css">
+
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="https://metrics-toolkit.github.io/plugins/themify-icons/themify-icons.css">
+
+  <!--Favicon-->
+  <link rel="icon" href="https://metrics-toolkit.github.io/images/favicon.png" type="image/x-icon">
+
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open%20Sans:300,400,700&display=swap" rel="stylesheet">
+  
+  <style>
+  :root{
+    --primary-color:#005166;
+    --body-color:#f9f9f9;
+    --text-color:#636363;
+    --text-color-dark:#242738;
+    --white-color:#ffffff;
+    --light-color:#f8f9fa;
+    --font-family:Open Sans;
+  }
+  </style>
+
+<!-- Main Stylesheet -->
+
+<link href="https://metrics-toolkit.github.io/css/style.min.css" rel="stylesheet" media="screen"/>
+  
+<!-- ** JS Plugins Needed for the Project ** -->
+
+<!-- jquiry -->
+<script src="https://metrics-toolkit.github.io/plugins/jquery/jquery-1.12.4.js"></script>
+
+<!-- jquary ui -->
+<script src="https://metrics-toolkit.github.io/plugins/jquery/jquery-ui.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="https://metrics-toolkit.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<!-- match-height JS -->
+<script src="https://metrics-toolkit.github.io/plugins/match-height/jquery.matchHeight-min.js"></script>
+
+
+
+</head>
+  
+  <body>
+    
+    <!-- header -->
+    <header class="shadow-bottom sticky-top bg-white">
+      <nav class="navbar navbar-expand-md navbar-light">
+  <div class="container">
+    <a class="navbar-brand px-2" href="/">
+      
+      
+      
+      Metrics Toolkit
+      
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/">Home</a>
+        </li>
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/metrics">Browse Metrics</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/resources">Resources</a>
+        </li>
+        
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            about
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="/about">About</a>
+            
+            <a class="dropdown-item" href="/about/editorial-board">Editorial Board</a>
+            
+            <a class="dropdown-item" href="/about/schema">Schema</a>
+            
+          </div>
+        </li>
+        
+        
+      </ul> 
+      
+    </div>
+  </div>
+</nav> 
+    </header>
+    <!-- /header -->
+    
+    
+
+<!-- details page -->
+<section class="single section-sm pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="p-lg-5 p-4 bg-white">
+          <h2 class="mb-5">Altmetric Attention Score</h2>
+          
+          <div class="content"><table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Field Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Altmetric Attention Score</td>
+</tr>
+<tr>
+<td>Can Apply To</td>
+<td>Journal articles, books, and any research output deposited to a repository that the company tracks</td>
+</tr>
+<tr>
+<td>Metric Definition</td>
+<td>&ldquo;The Altmetric Attention Score is an automatically calculated, weighted count of all of the attention a research  output has received [online, in sources tracked by Altmetric].&rdquo;</td>
+</tr>
+<tr>
+<td>Metric Calculation</td>
+<td>The AAS takes into account the volume of attention received by a research output across a number of online attention sources (e.g. Twitter, Pubpeer, etc). Each source is <a href="https://help.altmetric.com/support/solutions/articles/6000060969-how-is-the-altmetric-attention-score-calculated-">weighted by the company</a>. The AAS weighting also takes into account whether the author of a mention of a research output regularly posts about scholarly articles.</td>
+</tr>
+<tr>
+<td>Data Sources</td>
+<td>News articles, Blogs, Twitter, Facebook, Sina Weibo, Wikipedia, Policy Documents (per source), Q&amp;A, F1000, Publons, Pubpeer, YouTube, Reddit, Pinterest, LinkedIn, Open Syllabus, Google+. Mendeley readers, citation counts and CiteULike bookmarks do not count towards the score.</td>
+</tr>
+<tr>
+<td>Appropriate Use Cases</td>
+<td>The AAS is best used by individual researchers to understand the overall volume of attention that research has received online. Individuals may also use the “Score in Context” (found on Altmetric details pages) to understand how a research output’s score compares to other scores. The AAS may also be used by publishers and institutions to group the attention received by its published and/or produced research in order to monitor and benchmark its reach.</td>
+</tr>
+<tr>
+<td>Limitations</td>
+<td>The AAS does not take into account the sentiments of mentions made about research objects, and thus does not help one understand the positive nor negative attention that a piece of research has received. According to <a href="http://doi.org/10.15200/winn.146723.36330">Lockwood</a> (2016), “Article titles with result-oriented positive framing and more interesting phrasing receive higher Altmetric [attention] scores”, and the same goes with articles with catchy titles <a href="http://www.qqml-journal.net/index.php/qqml/article/view/331/329">(Poplasen &amp; Grgic, 2016)</a>. Conflicting research exists as to whether the number of collaborators on a paper may increase or decrease an AAS (<a href="http://hdl.handle.net/2142/89331">Didegah, 2016</a>; <a href="https://doi.org/10.1371/journal.pone.0120495">Haustein, Costas &amp; Larivière, 2015</a>). International collaborations may increase an AAS (<a href="http://hdl.handle.net/2142/89331">Didegah, 2016</a>). Institutional prestige of authors reportedly does not affect an AAS (<a href="http://hdl.handle.net/2142/89331">Didegah, 2016</a>). Legitimate self-promotion by authors may artificially increase an AAS (<a href="https://www.altmetric.com/blog/gaming-altmetrics/">Adie, 2013</a>). Journal impact factor and article accessibility may positively influence an article’s AAS; “publications from Social Sciences &amp; Humanities have more mentions on Twitter and Facebook…[thus impacting an article’s AAS] than publications from both Engineering &amp; Technology and Medical &amp; Natural sciences” (Didegah, 2016). Differences in coverage and frequency of updates influence differences in counts of altmetric indicators (Bar-Ilan &amp; Halevi, 2017). Studies show that there is very little overlap between very highly cited papers and those that receive high altmetric scores (Banshal et al, 2018; Poplasen &amp; Grgic, 2016).</td>
+</tr>
+<tr>
+<td>Inappropriate Use Cases</td>
+<td>The AAS should not be used as a direct measure of research impact of any kind, or quality.</td>
+</tr>
+<tr>
+<td>Available Metric Sources</td>
+<td>The AAS can be found in all products offered by <a href="http://www.altmetric.com/">Altmetric</a>, including the free researcher bookmarklet and on many journal publisher websites. The <a href="https://app.dimensions.ai/discover/publication">Dimensions</a> database also includes the Altmetric Attention Score for the articles it indexes.</td>
+</tr>
+<tr>
+<td>Transparency</td>
+<td>It is not possible to fully audit the AAS, as the weighting of the score depends upon non-public, company-assigned &ldquo;tiers&rdquo; for news sources, Twitter users, and some other sources that mention a research output.</td>
+</tr>
+<tr>
+<td>Website</td>
+<td><a href="https://www.altmetric.com/about-our-data/the-donut-and-score/">The donut and Altmetric Attention Score</a>, <a href="https://help.altmetric.com/support/solutions/articles/6000060969-how-is-the-altmetric-score-calculated-">How is the Altmetric Attention Score calculated</a>, <a href="https://www.altmetric.com/about-our-data/our-sources/">Sources of attention</a></td>
+</tr>
+<tr>
+<td>Timeframe</td>
+<td>Mostly post-2011. For more information on the coverage dates for sources contributing to the AAS, <a href="https://help.altmetric.com/support/solutions/articles/6000136884-when-did-altmetric-start-tracking-attention-to-each-attention-source-">visit the Altmetric website</a>.</td>
+</tr>
+</tbody>
+</table>
+</div>
+          
+          <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 10 Aug 2020</p>
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /details page -->
+
+
+
+
+
+    <!-- footer -->
+<footer class="section pb-4">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-8 text-md-left text-center">
+       <p class="mb-md-0 mb-4">This site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+      </div>
+      <div class="col-md-4 text-md-right text-center">
+        <ul class="list-inline">
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://www.twitter.com/metrics_toolkit"><i class="ti-twitter-alt"></i></a></li>
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href=""><i class=""></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- /footer -->
+
+<!-- Main Script -->
+
+<script src="https://metrics-toolkit.github.io/js/script.min.js"></script>
+  </body>
+
+</html>
