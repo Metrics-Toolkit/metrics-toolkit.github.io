@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://metrics-toolkit.github.io/metrics/journal_impact_factor/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://metrics-toolkit.github.io/metrics/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://metrics-toolkit.github.io/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://metrics-toolkit.github.io/about/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://metrics-toolkit.github.io/about/schema/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrics-toolkit.github.io/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,11 +139,6 @@
   
   <url>
     <loc>https://metrics-toolkit.github.io/metrics/mendeley_readers/</loc>
-    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrics-toolkit.github.io/metrics/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
