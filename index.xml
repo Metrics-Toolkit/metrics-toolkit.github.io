@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://metrics-toolkit.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Journal Impact Factor</title>
-      <link>https://metrics-toolkit.github.io/metrics/journal_impact_factor/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://metrics-toolkit.github.io/metrics/journal_impact_factor/</guid>
-      <description>Field Field Value     Name Journal Impact Factor   Can Apply To The Journal Impact Factor only applies to journals indexed in the Science Citation Index Expanded and/or Social Sciences Citation Index by Clarivate Analytics.   Metric Definition The Journal Impact Factor is a measure reflecting the annual average (mean) number of citations to recent articles published in that journal. An essay written by the Institute of Scientific Information (ISI) states “The JCR provides quantitative tools for ranking, evaluating, categorizing, and comparing journals.</description>
-    </item>
     
     <item>
       <title>Metric Description Schema</title>
@@ -173,6 +164,15 @@
       
       <guid>https://metrics-toolkit.github.io/metrics/journal_acceptance_rate/</guid>
       <description>Field Field Value     Name Journal Acceptance Rate   Can Apply To Journal articles, typically in peer-reviewed publications   Metric Definition The percentage of manuscripts accepted for publication, compared to all manuscripts submitted.   Metric Calculation The percentage is calculated by dividing the number of manuscripts accepted for publication in a given year by the number of manuscripts submitted in that same year.</description>
+    </item>
+    
+    <item>
+      <title>Journal Impact Factor</title>
+      <link>https://metrics-toolkit.github.io/metrics/journal_impact_factor/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.github.io/metrics/journal_impact_factor/</guid>
+      <description>Field Field Value     Name Journal Impact Factor   Can Apply To The Journal Impact Factor only applies to journals indexed in the Science Citation Index Expanded and/or Social Sciences Citation Index by Clarivate Analytics.   Metric Definition The Journal Impact Factor is a measure reflecting the annual average (mean) number of citations to recent articles published in that journal. An essay written by the Institute of Scientific Information (ISI) states “The JCR provides quantitative tools for ranking, evaluating, categorizing, and comparing journals.</description>
     </item>
     
     <item>
