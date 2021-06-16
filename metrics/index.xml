@@ -2,247 +2,247 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metrics on Metrics Toolkit</title>
-    <link>https://metrics-toolkit.org/metrics/</link>
+    <link>https://www.metrics-toolkit.org/metrics/</link>
     <description>Recent content in Metrics on Metrics Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
     <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate>
     
-	<atom:link href="https://metrics-toolkit.org/metrics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.metrics-toolkit.org/metrics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Altmetric Attention Score</title>
-      <link>https://metrics-toolkit.org/metrics/almetric_attention_score/</link>
+      <link>https://www.metrics-toolkit.org/metrics/almetric_attention_score/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/almetric_attention_score/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/almetric_attention_score/</guid>
       <description>Field Field Value     Name Altmetric Attention Score   Can Apply To Journal articles, books, and any research output deposited to a repository that the company tracks   Metric Definition &amp;ldquo;The Altmetric Attention Score is an automatically calculated, weighted count of all of the attention a research output has received [online, in sources tracked by Altmetric].&amp;rdquo;   Metric Calculation The AAS takes into account the volume of attention received by a research output across a number of online attention sources (e.</description>
     </item>
     
     <item>
       <title>Blog mentions</title>
-      <link>https://metrics-toolkit.org/metrics/blog_mentions/</link>
+      <link>https://www.metrics-toolkit.org/metrics/blog_mentions/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/blog_mentions/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/blog_mentions/</guid>
       <description>Field Field Value     Name Blog Mentions   Can Apply To Primarily articles, books, and other scholarly items with persistent identifiers, such as a DOI, url, or handle   Metric Definition The number of times a scholarly output has been linked to from a blog.   Metric Calculation Blog mentions are comprised of raw counts of links to outputs, from blogs. Some services track links only for items with a persistent identifier.</description>
     </item>
     
     <item>
       <title>Citation percentiles and &#39;Highly Cited&#39; labels</title>
-      <link>https://metrics-toolkit.org/metrics/highlycited_awards/</link>
+      <link>https://www.metrics-toolkit.org/metrics/highlycited_awards/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/highlycited_awards/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/highlycited_awards/</guid>
       <description>Field Field Value     Name Citation percentiles and “Highly Cited” labels   Can Apply To Journal articles   Metric Definition &amp;ldquo;The position of a paper or group of papers with respect to other papers in a given discipline, country, and/or time period, based on the number of citations they have received. Expressed as a percentile or awarded a “Highly Cited” honorific based upon percentile rankings.</description>
     </item>
     
     <item>
       <title>Citations, Articles</title>
-      <link>https://metrics-toolkit.org/metrics/citations_articles/</link>
+      <link>https://www.metrics-toolkit.org/metrics/citations_articles/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/citations_articles/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/citations_articles/</guid>
       <description>Field Field Value     Name Citations, Articles   Can Apply To Journal articles and preprints   Metric Definition The number of times that a journal article or preprint has appeared in the reference list of other articles and books.   Metric Calculation Many citation databases use a combination of text-mining and manual classification to build their lists of citations, based upon the reference lists of articles and books that they index.</description>
     </item>
     
     <item>
       <title>Citations, Books and book chapters</title>
-      <link>https://metrics-toolkit.org/metrics/citations_books_bookchapters/</link>
+      <link>https://www.metrics-toolkit.org/metrics/citations_books_bookchapters/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/citations_books_bookchapters/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/citations_books_bookchapters/</guid>
       <description>Field Field Value     Name Citations, Books and Book Chapters   Can Apply To Scholarly monographs and trade books, and chapters of scholarly monographs   Metric Definition The number of times that a book or chapter has appeared in the reference list of other articles and books.   Metric Calculation Many citation databases use a combination of text-mining and manual classification to build their lists of citations.</description>
     </item>
     
     <item>
       <title>Citations, Data</title>
-      <link>https://metrics-toolkit.org/metrics/citations_data/</link>
+      <link>https://www.metrics-toolkit.org/metrics/citations_data/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/citations_data/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/citations_data/</guid>
       <description>Field Field Value     Name Citations, Data   Can Apply To Research data sets and journal articles that describe them.   Metric Definition The number of times a journal article or book has referenced a data set.   Metric Calculation Data citations are sometimes collected only in the formal sense (i.e., with the data set being listed in the References section of a paper, alongside journal articles).</description>
     </item>
     
     <item>
       <title>Citations, Software</title>
-      <link>https://metrics-toolkit.org/metrics/citations_software/</link>
+      <link>https://www.metrics-toolkit.org/metrics/citations_software/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/citations_software/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/citations_software/</guid>
       <description>Field Field Value     Name Citations, Software   Can Apply To Software packages and papers describing software packages   Metric Definition The number of times a piece of software or code (or a paper that describes software or code) has been cited as a resource in a journal article or book.   Metric Calculation Like data, software can be cited formally (in the references section of a paper) or informally (linked to from the methods section of a paper).</description>
     </item>
     
     <item>
       <title>Downloads, Articles</title>
-      <link>https://metrics-toolkit.org/metrics/downloads_articles/</link>
+      <link>https://www.metrics-toolkit.org/metrics/downloads_articles/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/downloads_articles/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/downloads_articles/</guid>
       <description>Field Field Value     Name Downloads, Articles   Can Apply To Journal articles or other serial publications   Metric Definition A download is an event triggered by a user clicking on the download button, in contrast to simply viewing a web page.   Metric Calculation A count of downloads during a period of time.   Data Sources Publishers, subject repositories, institutional repositories, researcher profile systems, and altmetrics aggregators.</description>
     </item>
     
     <item>
       <title>Downloads, Books and book chapters</title>
-      <link>https://metrics-toolkit.org/metrics/downloads_books_bookchapters/</link>
+      <link>https://www.metrics-toolkit.org/metrics/downloads_books_bookchapters/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/downloads_books_bookchapters/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/downloads_books_bookchapters/</guid>
       <description>Field Field Value     Name Downloads, Books and Book Chapters   Can Apply To Books and book chapters   Metric Definition A download is an event triggered by a user clicking on the download button, in contrast to simply viewing a web page.   Metric Calculation A count of downloads over a period of time.   Data Sources Publishers, subject repositories, and institutional repositories   Appropriate Use Cases Book and book chapter downloads can be used as a leading indicator or proxy for others intent to use, rather than actual usage.</description>
     </item>
     
     <item>
       <title>Downloads, Software</title>
-      <link>https://metrics-toolkit.org/metrics/downloads_software/</link>
+      <link>https://www.metrics-toolkit.org/metrics/downloads_software/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/downloads_software/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/downloads_software/</guid>
       <description>Field Field Value     Name Downloads, Software   Can Apply To Research software, scripts, code snippets   Metric Definition File downloads over a period of time.   Metric Calculation Most downloads are calculated in a straightforward manner (where the number of downloads is simply reported as-is), but others account for–and remove–downloads initiated by bots.   Data Sources Though almost any web platform that can host files (including researcher websites), the most common and reliable sources of research software download statistics are those reported by software hosting sites (e.</description>
     </item>
     
     <item>
       <title>Field Weighted Citation Impact</title>
-      <link>https://metrics-toolkit.org/metrics/field_weighted_citation_impact/</link>
+      <link>https://www.metrics-toolkit.org/metrics/field_weighted_citation_impact/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/field_weighted_citation_impact/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/field_weighted_citation_impact/</guid>
       <description>Field Field Value     Name Field Weighted Citation Impact   Can Apply To Primarily journal articles, but also other kinds of research outputs, such as book chapters and conference proceedings that are sufficiently covered by abstract and citation databases.   Metric Definition The Field Normalized Citation Impact (FNCI) is the ratio between the actual citations received by a publication and the average number of citations received by all other similar publications.</description>
     </item>
     
     <item>
       <title>Github: Forks, collaborators, watchers</title>
-      <link>https://metrics-toolkit.org/metrics/github_forks_collaborators_watchers/</link>
+      <link>https://www.metrics-toolkit.org/metrics/github_forks_collaborators_watchers/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/github_forks_collaborators_watchers/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/github_forks_collaborators_watchers/</guid>
       <description>Field Field Value     Name Github: Forks, Collaborators, Watchers   Can Apply To Any project content stored on Github.com, but primarily software and code.   Metric Definition Github “Forks” are created when a user makes a copy of a repository (i.e., a group of files). A “collaborator” is another Github user who is able to perform many actions on the files within the repository, including edits.</description>
     </item>
     
     <item>
       <title>Goodreads: Ratings and reviews</title>
-      <link>https://metrics-toolkit.org/metrics/goodreads_ratings_reviews/</link>
+      <link>https://www.metrics-toolkit.org/metrics/goodreads_ratings_reviews/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/goodreads_ratings_reviews/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/goodreads_ratings_reviews/</guid>
       <description>Field Field Value     Name Goodreads: Ratings and Reviews   Can Apply To Any book that has been added to the Goodreads catalog   Metric Definition A book’s overall rating is the average of all ratings provided by Goodreads users.   Metric Calculation Mathematical/quantitative definition of the metric (when available)   Data Sources Goodreads book pages   Appropriate Use Cases Reviews may provide qualitative evidence of impact upon the reviewer(s).</description>
     </item>
     
     <item>
       <title>h-index</title>
-      <link>https://metrics-toolkit.org/metrics/h_index/</link>
+      <link>https://www.metrics-toolkit.org/metrics/h_index/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/h_index/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/h_index/</guid>
       <description>Field Field Value     Name h-index   Can Apply To Authors   Metric Definition An author-level metric (although it can also be calculated for any aggregation of publications, e.g. journals, institutions, etc.) calculated from the count of citations to an author’s set of publications.   Metric Calculation In his 2005 paper proposing the h-index, Hirsch describes the measure thusly: “A scientist has index h if h of his or her Np papers have at least h citations each and the other (Np – h) papers have fewer than ≤ h citations each.</description>
     </item>
     
     <item>
       <title>Journal Acceptance Rate</title>
-      <link>https://metrics-toolkit.org/metrics/journal_acceptance_rate/</link>
+      <link>https://www.metrics-toolkit.org/metrics/journal_acceptance_rate/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/journal_acceptance_rate/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/journal_acceptance_rate/</guid>
       <description>Field Field Value     Name Journal Acceptance Rate   Can Apply To Journal articles, typically in peer-reviewed publications   Metric Definition The percentage of manuscripts accepted for publication, compared to all manuscripts submitted.   Metric Calculation The percentage is calculated by dividing the number of manuscripts accepted for publication in a given year by the number of manuscripts submitted in that same year.</description>
     </item>
     
     <item>
       <title>Journal Impact Factor</title>
-      <link>https://metrics-toolkit.org/metrics/journal_impact_factor/</link>
+      <link>https://www.metrics-toolkit.org/metrics/journal_impact_factor/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/journal_impact_factor/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/journal_impact_factor/</guid>
       <description>Field Field Value     Name Journal Impact Factor   Can Apply To The Journal Impact Factor only applies to journals indexed in the Science Citation Index Expanded and/or Social Sciences Citation Index by Clarivate Analytics.   Metric Definition The Journal Impact Factor is a measure reflecting the annual average (mean) number of citations to recent articles published in that journal. An essay written by the Institute of Scientific Information (ISI) states “The JCR provides quantitative tools for ranking, evaluating, categorizing, and comparing journals.</description>
     </item>
     
     <item>
       <title>Mendeley Readers</title>
-      <link>https://metrics-toolkit.org/metrics/mendeley_readers/</link>
+      <link>https://www.metrics-toolkit.org/metrics/mendeley_readers/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/mendeley_readers/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/mendeley_readers/</guid>
       <description>Field Field Value     Name Mendeley Readers   Can Apply To Primarily journal articles, but also other types of research outputs, such as web pages, books and conference papers, which users add to their Mendeley reference libraries   Metric Definition The number of Mendeley users that have added a particular document to a Mendeley library. Aggregated demographic information, such as geographic location and discipline for Mendeley readers, are also available.</description>
     </item>
     
     <item>
       <title>Monograph holdings</title>
-      <link>https://metrics-toolkit.org/metrics/monograph_holdings/</link>
+      <link>https://www.metrics-toolkit.org/metrics/monograph_holdings/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/monograph_holdings/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/monograph_holdings/</guid>
       <description>Field Field Value     Name Monograph Holdings   Can Apply To Books   Metric Definition The number of libraries that own (“hold”) a book.   Metric Calculation Holdings counts are derived from national or international union library catalogues, such as OCLC WorldCat. The holdings count is calculated as the number of unique libraries that own a copy of a book.   Data Sources Library book holdings as represented in union catalogs.</description>
     </item>
     
     <item>
       <title>Monograph sales and rankings</title>
-      <link>https://metrics-toolkit.org/metrics/monograph_sales_rankings/</link>
+      <link>https://www.metrics-toolkit.org/metrics/monograph_sales_rankings/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/monograph_sales_rankings/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/monograph_sales_rankings/</guid>
       <description>Field Field Value     Name Monograph Sales and Rankings   Can Apply To Books   Metric Definition Sales figures record the number of times a book has been purchased. Sales ranking is a derivative metric that demonstrates how well a book is selling in comparison to other books.   Metric Calculation Sales figures record the number of recent sales of individual titles across the data sources being tracked by the metric provider.</description>
     </item>
     
     <item>
       <title>News Mentions</title>
-      <link>https://metrics-toolkit.org/metrics/news_mentions/</link>
+      <link>https://www.metrics-toolkit.org/metrics/news_mentions/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/news_mentions/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/news_mentions/</guid>
       <description>Field Field Value     Name News Mentions   Can Apply To Journal Articles   Metric Definition The number of mainstream online news and magazine outlets that reference a research output.   Metric Calculation Counts are determined by the number of news outlets that reference a specific research output. Metric sources use a variety of methods for recognizing and tracking mentions, such as searching for hyperlinks in news reports and full text searching.</description>
     </item>
     
     <item>
       <title>Policy mentions</title>
-      <link>https://metrics-toolkit.org/metrics/policy_mentions/</link>
+      <link>https://www.metrics-toolkit.org/metrics/policy_mentions/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/policy_mentions/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/policy_mentions/</guid>
       <description>Field Field Value     Name Policy Mentions   Can Apply To Primarily journal articles and books   Metric Definition The number of times a research output has been cited in policy documents from government bodies or NGOs.   Metric Calculation The total count of citations to a research output in the policy sources being tracked by the metric provider. Each provider tracks differing manually-curated lists of policy bodies.</description>
     </item>
     
     <item>
       <title>Publons score</title>
-      <link>https://metrics-toolkit.org/metrics/publons_score/</link>
+      <link>https://www.metrics-toolkit.org/metrics/publons_score/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/publons_score/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/publons_score/</guid>
       <description>Field Field Value     Name Publons Score   Can Apply To Peer reviewed papers and conference proceedings   Metric Definition Publons is a service that allows researchers to track and gain recognition for their peer review and editorial contributions. The Publons Score is an article-level metric that displays the perceived quality and significance of a paper on a scale of 1 to 10, according to peer reviews submitted by registered Publons users.</description>
     </item>
     
     <item>
       <title>Pubpeer comments</title>
-      <link>https://metrics-toolkit.org/metrics/pubpeer_comments/</link>
+      <link>https://www.metrics-toolkit.org/metrics/pubpeer_comments/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/pubpeer_comments/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/pubpeer_comments/</guid>
       <description>Field Field Value     Name Pubpeer Comments   Can Apply To Research papers with a persistent identifier (e.g., digital object identifier (DOI), PubMed ID, or ArXiv ID)   Metric Definition Pubpeer is a post-publication peer review platform. The full text of comments submitted by registered and unregistered users are publicly available.   Metric Calculation Pubpeer comments can be generated by registered and unregistered users for any paper with a DOI, PubMed ID, or ArXiv ID.</description>
     </item>
     
     <item>
       <title>Relative Citation Ratio</title>
-      <link>https://metrics-toolkit.org/metrics/relative_citation_ratio/</link>
+      <link>https://www.metrics-toolkit.org/metrics/relative_citation_ratio/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/relative_citation_ratio/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/relative_citation_ratio/</guid>
       <description>Field Field Value     Name Relative Citation Ratio   Can Apply To Journal articles   Metric Definition A field-normalized indicator of influence, used by the NIH for evaluating the relative merits of biomedical research articles   Metric Calculation According to Bloudoff-Indelicato (2015), “The RCR is calculated by dividing the number of citations a paper received by the average number of citations an article usually receives in that field.</description>
     </item>
     
     <item>
       <title>Twitter mentions</title>
-      <link>https://metrics-toolkit.org/metrics/twitter_mentions/</link>
+      <link>https://www.metrics-toolkit.org/metrics/twitter_mentions/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/twitter_mentions/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/twitter_mentions/</guid>
       <description>Field Field Value     Name Twitter Mentions   Can Apply To Any scholarly product (e.g. journal article) shared on Twitter using a link   Metric Definition Twitter mentions include posts and retweets that reference a trackable scholarly product.   Metric Calculation Counts are determined by the number of registered users that tweet or retweet a post that links to a trackable scholarly product.</description>
     </item>
     
     <item>
       <title>Wikipedia citations</title>
-      <link>https://metrics-toolkit.org/metrics/wikipedia_citations/</link>
+      <link>https://www.metrics-toolkit.org/metrics/wikipedia_citations/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/wikipedia_citations/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/wikipedia_citations/</guid>
       <description>Field Field Value     Name Wikipedia Citations   Can Apply To Primarily scholarly publications with a persistent identifier, such as a DOI   Metric Definition References to scholarly outputs in Wikipedia articles, which are linked to in order to support the the entry’s claims.   Metric Calculation The number of times a scholarly output has been referenced in Wikipedia articles. The specific tracking method is dependent on the metric source provider.</description>
     </item>
     

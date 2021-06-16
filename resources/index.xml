@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Metrics Toolkit</title>
-    <link>https://metrics-toolkit.org/resources/</link>
+    <link>https://www.metrics-toolkit.org/resources/</link>
     <description>Recent content in Resources on Metrics Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
     <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://metrics-toolkit.org/resources/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.metrics-toolkit.org/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
