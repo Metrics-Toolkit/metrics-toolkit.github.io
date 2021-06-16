@@ -1,194 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="https:////www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="https:////www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://metrics-toolkit.github.io/about/</loc>
+    <loc>https://metrics-toolkit.org/about/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/about/schema/</loc>
+    <loc>https://metrics-toolkit.org/about/schema/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/</loc>
+    <loc>https://metrics-toolkit.org/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/about/editorial-board/</loc>
+    <loc>https://metrics-toolkit.org/about/editorial-board/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/resources/</loc>
+    <loc>https://metrics-toolkit.org/resources/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/almetric_attention_score/</loc>
+    <loc>https://metrics-toolkit.org/metrics/almetric_attention_score/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/blog_mentions/</loc>
+    <loc>https://metrics-toolkit.org/metrics/blog_mentions/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/categories/book-chapters/</loc>
+    <loc>https://metrics-toolkit.org/categories/book-chapters/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/categories/books/</loc>
+    <loc>https://metrics-toolkit.org/categories/books/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/categories/</loc>
+    <loc>https://metrics-toolkit.org/categories/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/highlycited_awards/</loc>
+    <loc>https://metrics-toolkit.org/metrics/highlycited_awards/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/citations_articles/</loc>
+    <loc>https://metrics-toolkit.org/metrics/citations_articles/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/citations_books_bookchapters/</loc>
+    <loc>https://metrics-toolkit.org/metrics/citations_books_bookchapters/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/citations_data/</loc>
+    <loc>https://metrics-toolkit.org/metrics/citations_data/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/citations_software/</loc>
+    <loc>https://metrics-toolkit.org/metrics/citations_software/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/categories/datasets/</loc>
+    <loc>https://metrics-toolkit.org/categories/datasets/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/downloads_articles/</loc>
+    <loc>https://metrics-toolkit.org/metrics/downloads_articles/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/downloads_books_bookchapters/</loc>
+    <loc>https://metrics-toolkit.org/metrics/downloads_books_bookchapters/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/downloads_software/</loc>
+    <loc>https://metrics-toolkit.org/metrics/downloads_software/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/field_weighted_citation_impact/</loc>
+    <loc>https://metrics-toolkit.org/metrics/field_weighted_citation_impact/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/github_forks_collaborators_watchers/</loc>
+    <loc>https://metrics-toolkit.org/metrics/github_forks_collaborators_watchers/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/goodreads_ratings_reviews/</loc>
+    <loc>https://metrics-toolkit.org/metrics/goodreads_ratings_reviews/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/h_index/</loc>
+    <loc>https://metrics-toolkit.org/metrics/h_index/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/journal_acceptance_rate/</loc>
+    <loc>https://metrics-toolkit.org/metrics/journal_acceptance_rate/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/categories/journal-articles/</loc>
+    <loc>https://metrics-toolkit.org/categories/journal-articles/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/journal_impact_factor/</loc>
+    <loc>https://metrics-toolkit.org/metrics/journal_impact_factor/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/mendeley_readers/</loc>
+    <loc>https://metrics-toolkit.org/metrics/mendeley_readers/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/</loc>
+    <loc>https://metrics-toolkit.org/metrics/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/monograph_holdings/</loc>
+    <loc>https://metrics-toolkit.org/metrics/monograph_holdings/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/monograph_sales_rankings/</loc>
+    <loc>https://metrics-toolkit.org/metrics/monograph_sales_rankings/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/news_mentions/</loc>
+    <loc>https://metrics-toolkit.org/metrics/news_mentions/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/policy_mentions/</loc>
+    <loc>https://metrics-toolkit.org/metrics/policy_mentions/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/publons_score/</loc>
+    <loc>https://metrics-toolkit.org/metrics/publons_score/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/pubpeer_comments/</loc>
+    <loc>https://metrics-toolkit.org/metrics/pubpeer_comments/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/relative_citation_ratio/</loc>
+    <loc>https://metrics-toolkit.org/metrics/relative_citation_ratio/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/twitter_mentions/</loc>
+    <loc>https://metrics-toolkit.org/metrics/twitter_mentions/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/metrics/wikipedia_citations/</loc>
+    <loc>https://metrics-toolkit.org/metrics/wikipedia_citations/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.github.io/tags/</loc>
+    <loc>https://metrics-toolkit.org/tags/</loc>
   </url>
   
 </urlset>
