@@ -33,17 +33,27 @@
   </url>
   
   <url>
+    <loc>https://metrics-toolkit.org/categories/attention-reach-or-diffusion/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://metrics-toolkit.org/tags/authors/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://metrics-toolkit.org/metrics/blog_mentions/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.org/categories/book-chapters/</loc>
+    <loc>https://metrics-toolkit.org/tags/book-chapters/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.org/categories/books/</loc>
+    <loc>https://metrics-toolkit.org/tags/books/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
@@ -78,7 +88,22 @@
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.org/categories/datasets/</loc>
+    <loc>https://metrics-toolkit.org/tags/conference-proceedings/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://metrics-toolkit.org/categories/cultural-impact/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://metrics-toolkit.org/tags/datasets/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://metrics-toolkit.org/categories/disciplinary-influence/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
@@ -118,12 +143,17 @@
   </url>
   
   <url>
+    <loc>https://metrics-toolkit.org/categories/interdisciplinary-influence/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://metrics-toolkit.org/metrics/journal_acceptance_rate/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://metrics-toolkit.org/categories/journal-articles/</loc>
+    <loc>https://metrics-toolkit.org/tags/journal-articles/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
   
@@ -163,6 +193,11 @@
   </url>
   
   <url>
+    <loc>https://metrics-toolkit.org/tags/preprints/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://metrics-toolkit.org/metrics/publons_score/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
@@ -178,6 +213,16 @@
   </url>
   
   <url>
+    <loc>https://metrics-toolkit.org/tags/software/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://metrics-toolkit.org/tags/</loc>
+    <lastmod>2020-08-10T16:07:03-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://metrics-toolkit.org/metrics/twitter_mentions/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
   </url>
@@ -185,10 +230,6 @@
   <url>
     <loc>https://metrics-toolkit.org/metrics/wikipedia_citations/</loc>
     <lastmod>2020-08-10T16:07:03-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrics-toolkit.org/tags/</loc>
   </url>
   
 </urlset>

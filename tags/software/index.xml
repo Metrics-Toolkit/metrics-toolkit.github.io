@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Metrics Toolkit</title>
+    <link>https://metrics-toolkit.org/tags/software/</link>
+    <description>Recent content in Software on Metrics Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://metrics-toolkit.org/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Citations, Software</title>
+      <link>https://metrics-toolkit.org/metrics/citations_software/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/citations_software/</guid>
+      <description>Field Field Value     Name Citations, Software   Can Apply To Software packages and papers describing software packages   Metric Definition The number of times a piece of software or code (or a paper that describes software or code) has been cited as a resource in a journal article or book.   Metric Calculation Like data, software can be cited formally (in the references section of a paper) or informally (linked to from the methods section of a paper).</description>
+    </item>
+    
+    <item>
+      <title>Downloads, Software</title>
+      <link>https://metrics-toolkit.org/metrics/downloads_software/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/downloads_software/</guid>
+      <description>Field Field Value     Name Downloads, Software   Can Apply To Research software, scripts, code snippets   Metric Definition File downloads over a period of time.   Metric Calculation Most downloads are calculated in a straightforward manner (where the number of downloads is simply reported as-is), but others account for–and remove–downloads initiated by bots.   Data Sources Though almost any web platform that can host files (including researcher websites), the most common and reliable sources of research software download statistics are those reported by software hosting sites (e.</description>
+    </item>
+    
+    <item>
+      <title>Github: Forks, collaborators, watchers</title>
+      <link>https://metrics-toolkit.org/metrics/github_forks_collaborators_watchers/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/github_forks_collaborators_watchers/</guid>
+      <description>Field Field Value     Name Github: Forks, Collaborators, Watchers   Can Apply To Any project content stored on Github.com, but primarily software and code.   Metric Definition Github “Forks” are created when a user makes a copy of a repository (i.e., a group of files). A “collaborator” is another Github user who is able to perform many actions on the files within the repository, including edits.</description>
+    </item>
+    
+  </channel>
+</rss>

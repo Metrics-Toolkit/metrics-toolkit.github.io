@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cultural impact on Metrics Toolkit</title>
+    <link>https://metrics-toolkit.org/categories/cultural-impact/</link>
+    <description>Recent content in Cultural impact on Metrics Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://metrics-toolkit.org/categories/cultural-impact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Goodreads: Ratings and reviews</title>
+      <link>https://metrics-toolkit.org/metrics/goodreads_ratings_reviews/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/goodreads_ratings_reviews/</guid>
+      <description>Field Field Value     Name Goodreads: Ratings and Reviews   Can Apply To Any book that has been added to the Goodreads catalog   Metric Definition A book’s overall rating is the average of all ratings provided by Goodreads users.   Metric Calculation Mathematical/quantitative definition of the metric (when available)   Data Sources Goodreads book pages   Appropriate Use Cases Reviews may provide qualitative evidence of impact upon the reviewer(s).</description>
+    </item>
+    
+    <item>
+      <title>Policy mentions</title>
+      <link>https://metrics-toolkit.org/metrics/policy_mentions/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/policy_mentions/</guid>
+      <description>Field Field Value     Name Policy Mentions   Can Apply To Primarily journal articles and books   Metric Definition The number of times a research output has been cited in policy documents from government bodies or NGOs.   Metric Calculation The total count of citations to a research output in the policy sources being tracked by the metric provider. Each provider tracks differing manually-curated lists of policy bodies.</description>
+    </item>
+    
+  </channel>
+</rss>

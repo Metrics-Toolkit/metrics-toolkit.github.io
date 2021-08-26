@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on Metrics Toolkit</title>
+    <link>https://metrics-toolkit.org/tags/datasets/</link>
+    <description>Recent content in Datasets on Metrics Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://metrics-toolkit.org/tags/datasets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Altmetric Attention Score</title>
+      <link>https://metrics-toolkit.org/metrics/almetric_attention_score/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/almetric_attention_score/</guid>
+      <description>Field Field Value     Name Altmetric Attention Score   Can Apply To Journal articles, books, and any research output deposited to a repository that the company tracks   Metric Definition &amp;ldquo;The Altmetric Attention Score is an automatically calculated, weighted count of all of the attention a research output has received [online, in sources tracked by Altmetric].&amp;rdquo;   Metric Calculation The AAS takes into account the volume of attention received by a research output across a number of online attention sources (e.</description>
+    </item>
+    
+    <item>
+      <title>Blog mentions</title>
+      <link>https://metrics-toolkit.org/metrics/blog_mentions/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/blog_mentions/</guid>
+      <description>Field Field Value     Name Blog Mentions   Can Apply To Primarily articles, books, and other scholarly items with persistent identifiers, such as a DOI, Pubmed ID, or Handle   Metric Definition The number of times a scholarly output has been linked to from a blog.   Metric Calculation Blog mentions are comprised of raw counts of links to outputs, from blogs.</description>
+    </item>
+    
+    <item>
+      <title>Citations, Data</title>
+      <link>https://metrics-toolkit.org/metrics/citations_data/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/citations_data/</guid>
+      <description>Field Field Value     Name Citations, Data   Can Apply To Research data sets and journal articles that describe them.   Metric Definition The number of times a journal article or book has referenced a data set.   Metric Calculation Data citations are sometimes collected only in the formal sense (i.e., with the data set being listed in the References section of a paper, alongside journal articles).</description>
+    </item>
+    
+    <item>
+      <title>Mendeley Readers</title>
+      <link>https://metrics-toolkit.org/metrics/mendeley_readers/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/mendeley_readers/</guid>
+      <description>Field Field Value     Name Mendeley Readers   Can Apply To Primarily journal articles, but also other types of research outputs, such as web pages, books and conference papers, which users add to their Mendeley reference libraries   Metric Definition The number of Mendeley users that have added a particular document to a Mendeley library. Aggregated demographic information, such as geographic location and discipline for Mendeley readers, are also available.</description>
+    </item>
+    
+    <item>
+      <title>News Mentions</title>
+      <link>https://metrics-toolkit.org/metrics/news_mentions/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/news_mentions/</guid>
+      <description>Field Field Value     Name News Mentions   Can Apply To Journal Articles, Books, Book Chapters, Preprints, Datasets   Metric Definition The number of mainstream online news and magazine outlets that reference a research output.   Metric Calculation Counts are determined by the number of news outlets that reference a specific research output. Metric sources use a variety of methods for recognizing and tracking mentions, such as searching for hyperlinks in news reports and full text searching.</description>
+    </item>
+    
+    <item>
+      <title>Twitter mentions</title>
+      <link>https://metrics-toolkit.org/metrics/twitter_mentions/</link>
+      <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
+      
+      <guid>https://metrics-toolkit.org/metrics/twitter_mentions/</guid>
+      <description>Field Field Value     Name Twitter Mentions   Can Apply To Any scholarly product (e.g. journal article) shared on Twitter using a link   Metric Definition Twitter mentions include posts and retweets that reference a trackable scholarly product.   Metric Calculation Counts are determined by the number of registered Twitter users that tweet or retweet a post that links to a trackable scholarly product.</description>
+    </item>
+    
+  </channel>
+</rss>
