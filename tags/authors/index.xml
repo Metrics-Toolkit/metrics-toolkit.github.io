@@ -2,22 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Metrics Toolkit</title>
-    <link>https://metrics-toolkit.org/tags/authors/</link>
+    <link>https://www.metrics-toolkit.org/tags/authors/</link>
     <description>Recent content in Authors on Metrics Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
-    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate>
-    
-	<atom:link href="https://metrics-toolkit.org/tags/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate><atom:link href="https://www.metrics-toolkit.org/tags/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>h-index</title>
-      <link>https://metrics-toolkit.org/metrics/h_index/</link>
+      <link>https://www.metrics-toolkit.org/metrics/h_index/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/metrics/h_index/</guid>
+      <guid>https://www.metrics-toolkit.org/metrics/h_index/</guid>
       <description>Field Field Value     Name h-index   Can Apply To Authors   Metric Definition An author-level metric (although it can also be calculated for any aggregation of publications, e.g. journals, institutions, etc.) calculated from the count of citations to an author’s set of publications.   Metric Calculation In his 2005 paper proposing the h-index, Hirsch describes the measure thusly: “A scientist has index h if h of his or her Np papers have at least h citations each and the other (Np – h) papers have fewer than ≤ h citations each.</description>
     </item>
     

@@ -2,31 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About the Metrics Toolkit on Metrics Toolkit</title>
-    <link>https://metrics-toolkit.org/about/</link>
+    <link>https://www.metrics-toolkit.org/about/</link>
     <description>Recent content in About the Metrics Toolkit on Metrics Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://metrics-toolkit.org/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.metrics-toolkit.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metric Description Schema</title>
-      <link>https://metrics-toolkit.org/about/schema/</link>
+      <link>https://www.metrics-toolkit.org/about/schema/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://metrics-toolkit.org/about/schema/</guid>
+      <guid>https://www.metrics-toolkit.org/about/schema/</guid>
       <description>Field Field Description   Name The name of the metric (e.g., h-index)   Can apply to Indication of to what the metric is applied (e.g. an individual researcher, a paper, journal, etc).   Metric definition Narrative definition of what the metric calculates   Metric calculation Mathematical/quantitative definition of the metric, when available   Data sources Data sources utilized to calculate metric   Appropriate use cases Lists the attention/impact related questions the metric can help address   Limitations Describes the limitations of the metric, as identified in the literature   Inappropriate use cases Describes the attention/impact related questions the metric should not be used to address   Available sources   The individuals or organizations that maintain and publish the metric, with links to those sources.</description>
     </item>
     
     <item>
       <title>Metrics Toolkit Editorial Board</title>
-      <link>https://metrics-toolkit.org/about/editorial-board/</link>
+      <link>https://www.metrics-toolkit.org/about/editorial-board/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://metrics-toolkit.org/about/editorial-board/</guid>
+      <guid>https://www.metrics-toolkit.org/about/editorial-board/</guid>
       <description>The Metrics Toolkit Editorial Board is comprised of scientometrics experts well versed in research impact metrics and their real-world applications. Editors make a one-year commitment to maintain and develop new Toolkit content by staying abreast of the relevant literature and joining monthly Editorial Board calls. In collaboration with the Toolkit’s co-founders, Editorial Board members work to ensure the Metrics Toolkit provides current and evidence driven information about research metrics.
           Manolis Antonoyiannakis is an Associate Editor and Bibliostatistics Analyst at the American Physical Society, and an Adjunct Associate Research Scientist at the Department of Applied Physics &amp;amp; Applied Mathematics at Columbia University.</description>
     </item>

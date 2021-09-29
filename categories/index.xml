@@ -2,49 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Metrics Toolkit</title>
-    <link>https://metrics-toolkit.org/categories/</link>
+    <link>https://www.metrics-toolkit.org/categories/</link>
     <description>Recent content in Categories on Metrics Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
-    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate>
-    
-	<atom:link href="https://metrics-toolkit.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate><atom:link href="https://www.metrics-toolkit.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attention, reach, or diffusion</title>
-      <link>https://metrics-toolkit.org/categories/attention-reach-or-diffusion/</link>
+      <link>https://www.metrics-toolkit.org/categories/attention-reach-or-diffusion/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/categories/attention-reach-or-diffusion/</guid>
+      <guid>https://www.metrics-toolkit.org/categories/attention-reach-or-diffusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural impact</title>
-      <link>https://metrics-toolkit.org/categories/cultural-impact/</link>
+      <link>https://www.metrics-toolkit.org/categories/cultural-impact/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/categories/cultural-impact/</guid>
+      <guid>https://www.metrics-toolkit.org/categories/cultural-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disciplinary influence</title>
-      <link>https://metrics-toolkit.org/categories/disciplinary-influence/</link>
+      <link>https://www.metrics-toolkit.org/categories/disciplinary-influence/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/categories/disciplinary-influence/</guid>
+      <guid>https://www.metrics-toolkit.org/categories/disciplinary-influence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interdisciplinary influence</title>
-      <link>https://metrics-toolkit.org/categories/interdisciplinary-influence/</link>
+      <link>https://www.metrics-toolkit.org/categories/interdisciplinary-influence/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/categories/interdisciplinary-influence/</guid>
+      <guid>https://www.metrics-toolkit.org/categories/interdisciplinary-influence/</guid>
       <description></description>
     </item>
     

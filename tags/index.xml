@@ -2,85 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Metrics Toolkit</title>
-    <link>https://metrics-toolkit.org/tags/</link>
+    <link>https://www.metrics-toolkit.org/tags/</link>
     <description>Recent content in Tags on Metrics Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).</copyright>
-    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate>
-    
-	<atom:link href="https://metrics-toolkit.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 10 Aug 2020 16:07:03 -0500</lastBuildDate><atom:link href="https://www.metrics-toolkit.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authors</title>
-      <link>https://metrics-toolkit.org/tags/authors/</link>
+      <link>https://www.metrics-toolkit.org/tags/authors/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/tags/authors/</guid>
+      <guid>https://www.metrics-toolkit.org/tags/authors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book chapters</title>
-      <link>https://metrics-toolkit.org/tags/book-chapters/</link>
+      <link>https://www.metrics-toolkit.org/tags/book-chapters/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/tags/book-chapters/</guid>
+      <guid>https://www.metrics-toolkit.org/tags/book-chapters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>https://metrics-toolkit.org/tags/books/</link>
+      <link>https://www.metrics-toolkit.org/tags/books/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/tags/books/</guid>
+      <guid>https://www.metrics-toolkit.org/tags/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference proceedings</title>
-      <link>https://metrics-toolkit.org/tags/conference-proceedings/</link>
+      <link>https://www.metrics-toolkit.org/tags/conference-proceedings/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/tags/conference-proceedings/</guid>
+      <guid>https://www.metrics-toolkit.org/tags/conference-proceedings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datasets</title>
-      <link>https://metrics-toolkit.org/tags/datasets/</link>
+      <link>https://www.metrics-toolkit.org/tags/datasets/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/tags/datasets/</guid>
+      <guid>https://www.metrics-toolkit.org/tags/datasets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal articles</title>
-      <link>https://metrics-toolkit.org/tags/journal-articles/</link>
+      <link>https://www.metrics-toolkit.org/tags/journal-articles/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/tags/journal-articles/</guid>
+      <guid>https://www.metrics-toolkit.org/tags/journal-articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preprints</title>
-      <link>https://metrics-toolkit.org/tags/preprints/</link>
+      <link>https://www.metrics-toolkit.org/tags/preprints/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/tags/preprints/</guid>
+      <guid>https://www.metrics-toolkit.org/tags/preprints/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://metrics-toolkit.org/tags/software/</link>
+      <link>https://www.metrics-toolkit.org/tags/software/</link>
       <pubDate>Mon, 10 Aug 2020 16:07:03 -0500</pubDate>
       
-      <guid>https://metrics-toolkit.org/tags/software/</guid>
+      <guid>https://www.metrics-toolkit.org/tags/software/</guid>
       <description></description>
     </item>
     
